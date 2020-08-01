@@ -1,0 +1,7 @@
+100001300001Rajesh              500011230001Nokia Phone 1100              2800  1   Delivered   01-Dec-2019 18:06:3020-Nov-201924-Nov-201901-Dec-2019
+100002300001Rajesh              500011230002Nokia Charger 1100            80    1   Delivered   01-Dec-2019 18:06:3020-Nov-201924-Nov-201901-Dec-2019
+100003300001Rajesh              500011230003Sony Headset NoiseFree        1280  2   Delivered   05-Dec-2019 12:06:3020-Nov-201930-Nov-201905-Dec-2019
+100004300002Ravi                500021230001Nokia Phone 1100              2800  1   Ordered     25-Nov-2019 15:06:3025-Nov-2019                      
+100005300003Vimal               500031230003Sony Headset NoiseFree        1280  1   Shipped     04-Dec-2019 10:03:2501-Dec-201901-Dec-2019           
+100006300004Vimal               500031230001Nokia Phone 1100              2800  1   Ordered     03-Dec-2019 11:06:4503-Dec-2019                      
+100007300005Suresh              500041230001Nokia Phone 1100              2800  1   Shipped     02-Dec-2019 11:50:3427-Nov-201902-Dec-2019           
